@@ -9,7 +9,7 @@ permissions:
 
 env:
   ACR_NAME: studentlb
-  RG: react-rg
+  RG: karthik-rg-react
 
 jobs:
   build-push:
